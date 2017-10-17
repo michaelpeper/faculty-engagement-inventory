@@ -1,3 +1,6 @@
+[need explanation of project team]
+[need to consider contributors, resource needs]
+
 # faculty-engagement-inventory
 In order to better understand existing relationships between KU Libraries and the KU campus, we will create an inventory or map of these relationships. This project will systematically document existing relationships to identify gaps and strengths. This repo will collect materials that we create in the process of documenting library engagement at KU. Please fork this repo for use at your library and let us know how you use and adapt this at your own institution.
 
