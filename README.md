@@ -16,6 +16,6 @@ The inventory project is a systematic process for documenting how and with whom 
 
 We've created a <a href="https://github.com/michaelpeper/faculty-engagement-inventory/blob/master/roadmap.md">roadmap</a> that lays out the work ahead and some key milestones to complete along the way.
 
-### What do *we* need? ###
+### What do *we* need? :open_mouth: ###
 
 We need some help with the analysis phase and survey design.
